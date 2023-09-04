@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "700373280099",
+    "project_id": "notification-22d59",
+    "storage_bucket": "notification-22d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700373280099:android:0af1aebf41e1b3859edf56",
+        "android_client_info": {
+          "package_name": "com.example.funny_enough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700373280099-7tso6kirdhke1fbeu70gvuet2rcut0ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRTvwBkKUQHcJy8z3Mn9YgMozyGuJHZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700373280099-7tso6kirdhke1fbeu70gvuet2rcut0ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700373280099-2jliutdlc2s2njkfpu1so8i0qput4ji4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.funnyEnough.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
